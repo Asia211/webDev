@@ -1,0 +1,40 @@
+body {
+  background-color: black;
+}
+h1 {
+  color: red;
+  text-align: center;
+font-family: 'Lobster', cursive;
+}
+h2 {
+  color: blue;
+  text-align: center;
+font-family: 'Lobster', cursive;
+}
+ #BornWhere{
+  color: blue;
+  text-align: center;
+font-family: 'Lobster', cursive;
+}
+#MyLooks{
+ color: blue;
+ text-align: center;
+font-family: 'Lobster', cursive;
+}
+#Shailene{
+ color: blue;
+ text-align: center;
+font-family: 'Lobster', cursive;
+}
+
+p {
+  color: white;
+  font-family: 'Arvo', serif;
+  text-align: center;
+}
+img {
+height: 400px;
+width: 400px;
+display: block;
+margin-left: auto;
+margin-right: auto;}
